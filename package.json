@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.exacttarget.com/brian-kaplan/bulleted-list.git"
+    "url": "git+https://github.exacttarget.com/xTwIzZ/bulleted-list.git"
   },
-  "author": "Brian Kaplan",
+  "author": "xTwIzZ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.exacttarget.com/brian-kaplan/bulleted-list/issues"
+    "url": "https://github.exacttarget.com/xTwIzZ/bulleted-list/issues"
   },
-  "homepage": "https://github.exacttarget.com/brian-kaplan/bulleted-list#readme",
+  "homepage": "https://github.exacttarget.com/xTwIzZ/bulleted-list#readme",
   "dependencies": {
     "@salesforce-ux/design-system": "^2.5.2",
     "blocksdk": "^1.0.0",
