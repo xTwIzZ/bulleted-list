@@ -1,0 +1,7 @@
+{
+	"name": "Content Block",
+	"description": "A Salesforce Marketing Cloud Content Builder Custom Block",
+	"repository": "https://github.exacttarget.com/brian-kaplan/bulleted-list",
+	"logo": "https://github.exacttarget.com/brian-kaplan/bulleted-list/blob/master/dist/icon.png?raw=true",
+	"keywords": ["node", "express", "static", "content builder", "block", "blocksdk"]
+}
